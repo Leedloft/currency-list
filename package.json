@@ -9,10 +9,14 @@
     "@mui/material": "^5.11.4",
     "classnames": "^2.3.2",
     "cra-template": "1.2.0",
+    "currency-symbol-map": "^5.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "select": "^1.1.2"
+    "react-select": "^5.7.0",
+    "react-tooltip": "^5.4.0",
+    "select": "^1.1.2",
+    "uuid-apikey": "^1.5.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -37,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "web-vitals": "^3.1.0"
   }
 }
